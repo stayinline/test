@@ -1,0 +1,67 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Language" content="zh-cn" />
+<style>
+#header {
+	background-color:black;
+	text-align:center;
+	padding:5px;
+}
+#nav {
+	line-height:30px;
+	background-color:#7FFFFF;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px;	      
+}
+#section {
+	color:blue;
+    width:500px;
+	float:left;
+    padding:110px;		 
+}
+#footer {
+    color:white;
+	clear:both;
+	text-align:center;
+    padding:5px;		 
+}
+</style>
+</head>
+
+<body bgcolor="white">
+	<div id="section">
+		<h1>my CGI</h1>
+		<form action="cgi-bin/math_cgi", method="GET">
+			data1:<br>
+			<input type="text" name="data1" value=" ">
+			<br>
+			data2:<br>
+			<input type="text" name="data2" value=" ">
+			<br>
+			<br>
+			<input type="submit" value="GET Submit">
+		</form> 
+		 <form action="cgi-bin/math_cgi", method="POST">
+			  data3:<br>
+			   <input type="text" name="data3" value=" ">
+			    <br>
+			     data4<br>
+			      <input type="text" name="data4" value=" ">
+			       <br>
+			        <br>
+			         <input type="submit" value="post submit">
+			      </form>
+
+		<a href="https://www.baidu.com">baidu</a>
+	<p>
+	<img src="/imag/3374.jpg" width="400px" height="270px"/>
+	</p>
+</div>
+<div id="footer">
+</div>
+</body>
+
+</html>

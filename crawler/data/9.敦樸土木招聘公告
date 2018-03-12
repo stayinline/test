@@ -1,0 +1,368 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>西安工业大学就业信息网</title>
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+  <link href="css/simplefoucs_lrtk.css" rel="stylesheet" />
+    <link href="css/nav.css" rel="stylesheet" />
+     <link href="css/banner.css" rel="stylesheet" />
+	   <link href="css/main.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript" src="js/work.js"></script>
+<script type="text/javascript" src="js/iepngfix_tilebg.js"></script>
+<script type="text/javascript" src="js/jQuery.js"></script>
+<script type="text/javascript" src="js/common.js"></script>
+
+
+    <script src="js/jquery-1.9.1.min.js" type="text/javascript"></script>
+    <!--??js-->
+    <script type="text/javascript">
+$(document).ready(function() {
+	
+$("ul#topnav li").hover(function() { //Hover over event on list item
+	$(this).css({ 'background' : '#1376c9 url(topnav_active.gif) repeat-x'}); //Add background color + image on hovered list item
+	$(this).find("span").show(); //Show the subnav
+} , function() { //on hover out...
+	$(this).css({ 'background' : 'none'}); //Ditch the background
+	$(this).find("span").hide(); //Hide the subnav
+});
+	
+});
+</script>
+<!--tab?-->
+<script src="js/organictabs.jquery.js"></script>
+	<script>
+		$(function() {
+		
+			// Calling the plugin
+			$("#example-one").organicTabs();
+			$("#example-two").organicTabs({
+				"speed": 100,
+				"param": "tab"
+			});
+			
+		});
+	</script>
+    
+
+
+
+</HEAD>
+<BODY>
+
+<!--头部-->
+<div class="header">
+	<div class="header1">
+    	<div class="lianxi">
+        	<a href="#"><font color="#FFFFFF">设为首页</font></a>&nbsp;|&nbsp;<a href="#"><font color="#FFFFFF">加入收藏</font></a>&nbsp;
+        </div>
+        <div class="clear"></div>
+    </div>
+
+</div>
+<!--头部结束-->
+<!--导航开始-->
+<div class="navs">
+<div class="navbg">
+  <div class="col960">
+    <ul id="navul" class="cl">
+      <li><a href="/" target="_blank">网站首页</a></li>
+	  
+      <li><a href="#" title="学校概况">学校概况</a>
+        <ul>
+          <li><a href="/xxjj.asp?id=133" title="学校简介">学校简介</a></li>
+          <li><a href="/xysz.asp?id=134" title="学院设置">学院设置</a></li>
+        </ul>
+      </li>
+	  
+      <li><a href="/xwzx.asp" title="新闻资讯">新闻资讯</a></li>
+	  
+      <li><a href="#" title="招聘信息">招聘信息</a>
+        <ul>
+          <li><a href="/RM_Calendar.asp" title="招聘会信息">招聘会信息</a></li>
+          <li><a href="/jyxx.asp" title="单位需求信息">单位需求信息</a></li>
+          <li><a href="/dwxqxx.asp" title="岗位需求信息">岗位需求信息</a></li>
+        </ul>
+      </li>
+	  
+      <li><a href="#" title="单位服务">单位服务</a>
+        <ul>
+          <li><a href="/dwfw.asp?classid=34&classname=招聘指南&mnid=7726&qufen=0" title="招聘指南">招聘指南</a></li>
+          <li><a href="/map/map.asp" title="企业信息">企业信息</a></li>
+          <li><a href="/zxjj.asp?id=267" title="生源信息">生源信息</a></li>
+          <li><a href="/jlzx.asp" title="简历中心">简历中心</a></li>
+        </ul>
+      </li>
+	  
+      <li><a href="#" title="就业指导">就业指导</a>
+        <ul>
+          <li><a href="/jyzd.asp?classid=40&classname=就业政策&mnid=7726&qufen=0" title="就业政策">就业政策</a></li>
+          <li><a href="/jyzd.asp?classid=41&classname=就业指南&mnid=7726&qufen=0" title="就业指南">就业指南</a></li>
+          <li><a href="/jyzd.asp?classid=42&classname=职业测评&mnid=7726&qufen=0" title="职业测评">职业测评</a></li>
+        </ul>
+      </li>
+	  
+      <li><a href="http://xatu.sparktech.cn/innovation" title="创新创业" target="_blank">创新创业</a>
+
+      </li>
+	  
+      <li><a href="/zlxz.asp?classid=45&classname=资料下载&mnid=7726&qufen=0" title="资料下载">资料下载</a></li>
+	  
+      <li><a href="/zxjj.asp?id=153" title="中心简介">中心简介</a></li>
+    </ul>
+  </div>
+</div>
+<script  type="text/javascript"> 
+$(".navbg").capacityFixed();
+</script>
+
+</div>
+<!--导航结束-->
+
+<!--banner?-->
+<div class="nybn">
+  
+</div>
+<!--banner-->
+
+<!--main?-->
+<div class="nymain">
+<div class="nymain_left">
+    	<div class="nrs">
+        	<h1 class="leftnr1">单位需求信息</h1>
+            <div class="zydh">
+            	<ul>
+                    <li><a href="/jyxx.asp">单位需求信息</a></li>
+                </ul>
+            </div>
+            
+        </div>
+  
+        <div class="nrs">
+        	<h1 class="leftnr1">快速通道</h1>
+            <div class="zydh1">
+            	<ul>
+                	<li><a href="/zxjj.asp?id=268" target="_blank">就业流程</a></li>
+                    <li class="r1"><a href="/dwfw.asp?classid=34&classname=招聘指南&mnid=7726&qufen=0" target="_blank">招聘指南</a></li>
+                    <li><a href="/dacx.asp" target="_blank">档案查询</a></li>
+                    <li class="r1"><a href="/xysz.asp?id=134" target="_blank">联系学院</a></li>
+                    <li><a href="http://zbbm.chsi.com.cn" target="_blank">入伍预征</a></li>
+                    <li class="r1"><a href="/zxjj.asp?id=267" target="_blank">生源信息</a></li>
+                    <li><a href="/zlxz.asp?classid=45&classname=资料下载&mnid=7726&qufen=0" target="_blank">资料下载</a></li>
+                    <li class="r1"><a href="/jlzx.asp" target="_blank">简历中心</a></li>
+                    <div class="clear"></div>
+                </ul>
+            </div>
+            
+        </div>
+         <div class="nrs">
+        	<h1 class="leftnr1">工作指南</h1>
+            <div class="zydh1">
+            <!--	 <h2 class="zn">工作时间：</h2> 9:00-12:00 13:00-17:00 （节假日除外） -->
+                 <h2 class="zn">联系电话：</h2>	
+				 单位招聘 029-86173077-601<br>
+                 改派咨询 029-86173077-602<br>
+                 档案查询 029-86173077-603<br>
+                 其他事项 029-86173077-604<br>
+                 校内就业事务 029-86173079<br>
+                 值班电话（寒暑假）：18092157441
+				 <h2 class="zn">联系邮箱：</h2>xagdjy@126.com
+            </div>
+            
+        </div>
+        
+         <div class="nrs">
+        	<h1 class="leftnr1">快速登录</h1>
+            <div class="logins">
+            	<img src="images/login.jpg" width="244" height="150" border="0" usemap="#Map"  />
+                <map name="Map" id="Map">
+                  <area shape="rect" coords="65,22,171,57" href="http://xatu.sparktech.cn">
+                  <area shape="rect" coords="62,65,174,96" href="/denglu.asp">
+                </map>
+            </div>
+            
+            
+        </div>
+    </div>  
+  <div class="nymain_right">
+    	<h1 class="zyright"><span class="weizhi"><a href="/">网站首页</a>>><a href="/jyxx.asp">单位需求信息</a></span><span class="zys">单位需求信息</span></h1>
+        <div class="zynr">
+            
+		  <br />
+          <table width="95%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td height="50" align="center" class="cu sb"><strong>敦樸土木招聘公告</strong></td>
+            </tr>
+          </table>
+          <table width="95%" height="24" border="0" cellpadding="0" cellspacing="0" bgcolor="#F6F6F6">
+            <tr>
+              <td align="center" class="hui">作者：网站管理员&nbsp;发布时间：2017-6-27&nbsp;点击量：<span class="blue">319</span> 次&nbsp;<a href="javascript:window.close()" >关闭</a></td>
+            </tr>
+          </table>
+		  
+          <br />
+          <table width="95%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td align="left" class="line1 hui1"><DIV>公司简介</DIV>
+<DIV>
+<DIV></DIV>
+<DIV>公司概况：</DIV>
+<DIV>敦樸土木是一家去年成立的年轻的公司，公司的核心成员都是土木专业毕业、并多年从事CAE软件推广的集销售、市场、技术、经营于一身的专业人员，我们希望利用我们在行业的优势和资源，继续致力于为中国的工程人员提供世界上最先进、最有效的工程技术整体解决方案。</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>经营理念：</DIV>
+<DIV>价值观：<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;为善、求真</DIV>
+<DIV>使命：<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;技术普及以贡献价值，凡事精进以完善自身。</DIV>
+<DIV>愿景：<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;将世界上最好的工程软件技术进行整合，为客户提供最优解决方案，并成为客户最值得信赖的合作伙伴。</DIV>
+<DIV>人才观：<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;信念、热情、合作、专业。</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>合作伙伴：TNO DIANA(荷兰），HanGil IT（韩国），慧加（中国），筑信达（中国），FunctionBay（韩国）</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>提供的解决方案：</DIV>
+<DIV>DIANA：混凝土和砌体结构裂缝分析&nbsp;NO.1</DIV>
+<DIV>ASteelBox：钢混叠合梁桥施工图软件 NO.1</DIV>
+<DIV>BimRoad：三维智能化道路立交方案系统 NO.1</DIV>
+<DIV>AStrutTie：拉压杆自动化设计软件 NO.1</DIV>
+<DIV>WISEPLUS：&nbsp;空间网格和折面梁格的首选软件</DIV>
+<DIV>CSiBridge：&nbsp;桥梁抗震分析的首选软件</DIV>
+<DIV>RecurDyn：刚柔耦合多体动力学分析软件 NO.1</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>公司福利：<BR>法定福利包括：住房公积金、社会保险、法定休假（公休假日、法定休假日、带薪法定年假）</DIV>
+<DIV>额外福利包括：个人福利：（出差补贴，餐费补贴，手机费补贴，生日、结婚、生育祝福等）</DIV>
+<DIV>生活福利：（健康体检，茶点水果，运动，公司活动，节日活动等）</DIV>
+<DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;培训福利：（入职培训，技能培训，专项培训等）</DIV>
+<DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;发展福利：（内部晋升，内部调动，个人成长计划等）</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>如果您有兴趣加入我们，投递简历前请了解以下情况：</DIV>
+<DIV>1、公司位于闵行莘庄CBD核心。</DIV>
+<DIV>周边交通地铁十二号线，可以排除您因为距离而产生的后顾之忧。</DIV>
+<DIV>2、公司为员工提供在行业内具有竞争性，对员工具有激励性，在公司内具有公平性的薪酬激励体系。除此之外，公司还为员工提供广阔的展现自我的舞台，希望员工与公司共同成长，实现双赢。</DIV>
+<DIV>3、如果您有意向，可以通过两种方式投递您的简历。</DIV>
+<DIV>一种是在线投递，选择您想应聘的职位，点击在线投递的按钮；</DIV>
+<DIV>另一种是邮件投递，请您以附件的形式发送简历到公司邮箱dunpu@dp-user.com，并按格式编写主题“姓名--学校--专业”，简历请用A4文件格式加以整理，每封附件请尽量控制在3M以内，邮件正文可注明毕业时间、可到岗时间、薪酬要求等信息。</DIV>
+<DIV>4、公司人力资源部会根据目前公司的岗位匹配度筛选应聘者简历。</DIV>
+<DIV>5、岗位匹配度高的，我们会和您进行初步的电话沟通，确定面试时间和面试方式。</DIV>
+<DIV>&nbsp;&nbsp;&nbsp;优秀的在职人才，我们可以根据您时间的方便，预约在您下班后的时间进行面试。</DIV>
+<DIV>&nbsp;&nbsp;&nbsp;外地应聘的优秀人才，我们可以采用视频形式沟通。经初试通过来沪复试者，一经录用由公司为您报销长途交通费用。</DIV>
+<DIV>6、若未接到我们的沟通电话，则表示公司暂时没有与您能力相适应的岗位。但我们会将您的简历保存至公司人才库，待新的职位机会产生，再和您取得联系。</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>如果您和我们有同样的价值观～</DIV>
+<DIV>如果您希望在公司有展现自我的舞台～</DIV>
+<DIV>如果您希望与公司共同成长～</DIV>
+<DIV>如果您和我们有同样的愿景～</DIV>
+<DIV>我们期待您的加入！</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>沟通平台：</DIV>
+<DIV>微信公众号：DUNPU-Civil</DIV>
+<DIV>官方微博：敦樸土木</DIV>
+<DIV>中国DIANA交流群：534415912</DIV>
+<DIV>敦樸路桥设计交流群：478149462</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>需求信息</DIV>
+<DIV>技术营销工程师-土木（2人）</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>职责：</DIV>
+<DIV>1.&nbsp;负责软件产品的市场推广工作；</DIV>
+<DIV>2.&nbsp;用户技术培训、日常技术支持等工作；</DIV>
+<DIV>3.&nbsp;能够理解并且相信公司在营销战略上面的想法；</DIV>
+<DIV>4.&nbsp;能够配合公司，认真执行公司的市场营销战略，制定详细营销计划，确保销售计划的顺利完成；</DIV>
+<DIV>5.&nbsp;根据公司长远战略规划，收集市场信息，分析市场动向、特点和发展趋势，提出相应参考意见;</DIV>
+<DIV>6.&nbsp;在跟踪客户过程中，及时负责客户资料的收集、整理、存档的管理工作；</DIV>
+<DIV>7.&nbsp;能根据公司的要求，及时编制销售统计报表和分析报告;</DIV>
+<DIV>8.&nbsp;公司根据需要安排员工出差，受派遣的员工，无特殊理由应服从安排；</DIV>
+<DIV>9.&nbsp;严格遵守员工手册，公司规章制度的相关规定，认真履行其工作职责；</DIV>
+<DIV>10.&nbsp;完成领导交办的其他任务。</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>要求：</DIV>
+<DIV>1.&nbsp;正规院校土木工程、工程力学、岩土、机械工程、桥梁专业、道路专业，硕士（或同等学历）以上毕业（优秀者可适当放宽学历）；</DIV>
+<DIV>2.&nbsp;至少熟练一种有限元仿真分析软件(如DIANA、midas&nbsp;FEA、ANSYS、ABAQUS、ADINA、MSC.Marc、NASTRAN等)或至少熟悉一种桥梁分析或设计软件(如midas&nbsp;Civil、桥梁博士等)或至少熟悉一种路线软件（如鸿业、纬地、Cvil 3D、EI CAD、路立得等）；</DIV>
+<DIV>3.&nbsp;可适应短期出差；</DIV>
+<DIV>4.&nbsp;性格乐观开朗，能够配合办公室的高速工作节奏；</DIV>
+<DIV>5.&nbsp;能以正面积极的态度来面对可能产生的困难，特别是在有限时间进度要求下，有能力合理排序并且同期处理多任务；</DIV>
+<DIV>6.&nbsp;具备较强的战略思维能力、计划能力、沟通能力及口头/书面表达能力；</DIV>
+<DIV>7.&nbsp;专业基本功扎实；热爱工作，吃苦耐劳，追求成就；思维灵活敏捷，善于与人交往，亲和力强；具备良好的职业道德，诚实守信，责任心及原则性强；具备良好的服务意识及团队精神；</DIV>
+<DIV>8.&nbsp;有实际工程设计经验者请在简历中详细列出所参与的项目；</DIV>
+<DIV>9. 工作地点：上海闵行区。</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>优先条件：</DIV>
+<DIV>1. 可立即到岗者优先考虑；</DIV>
+<DIV>2.&nbsp;英语精通，听说读写流利者优先考虑；</DIV>
+<DIV>3. 朝鲜族优先考虑；</DIV>
+<DIV>4.&nbsp;具有相关工作经验者优先考虑。</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>技术工程师-土木（1人）</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>职责：</DIV>
+<DIV>1.&nbsp;主要负责软件产品的用户技术培训、日常技术支持等工作；</DIV>
+<DIV>2.&nbsp;负责软件产品的技术资料和市场资料制作;</DIV>
+<DIV>3.&nbsp;负责各类技术资料的收集、归档、整理、存档的管理工作;</DIV>
+<DIV>4.&nbsp;公司根据需要安排员工出差，受派遣的员工，无特殊理由应服从安排；</DIV>
+<DIV>5.&nbsp;严格遵守员工手册，公司规章制度的相关规定，认真履行其工作职责；</DIV>
+<DIV>6.&nbsp;完成领导交办的其他任务。</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>要求：</DIV>
+<DIV>1.&nbsp;正规院校土木工程、工程力学、岩土、机械工程、桥梁专业、道路专业，硕士（或同等学历）以上毕业（优秀者可适当放宽学历）；</DIV>
+<DIV>2. 至少熟练一种有限元仿真分析软件(如DIANA、midas&nbsp;FEA、ANSYS、ABAQUS、ADINA、MSC.Marc、NASTRAN等)或至少熟悉一种桥梁分析或设计软件(如midas&nbsp;Civil、桥梁博士等)或至少熟悉一种路线软件（如鸿业、纬地、Cvil 3D、EI CAD、路立得等）；</DIV>
+<DIV>3. 可适应短期出差；</DIV>
+<DIV>4.&nbsp;性格乐观开朗，能够配合办公室的高速工作节奏；</DIV>
+<DIV>5.&nbsp;能以正面积极的态度来面对可能产生的困难，特别是在有限时间进度要求下，有能力合理排序并且同期处理多任务；</DIV>
+<DIV>6.&nbsp;具备较强的战略思维能力、计划能力、沟通能力及口头/书面表达能力；</DIV>
+<DIV>7.&nbsp;专业基本功扎实；热爱工作，吃苦耐劳，追求成就；思维灵活敏捷，善于与人交往，亲和力强；具备良好的职业道德，诚实守信，责任心及原则性强；具备良好的服务意识及团队精神；</DIV>
+<DIV>8.&nbsp;有实际工程设计经验者请在简历中详细列出所参与的项目；</DIV>
+<DIV>9. 工作地点：上海闵行区。</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>优先条件：</DIV>
+<DIV>1. 可立即到岗者优先考虑；</DIV>
+<DIV>2.&nbsp;英语精通，听说读写流利者优先考虑；</DIV>
+<DIV>3. 朝鲜族优先考虑；</DIV>
+<DIV>4.&nbsp;具有相关工作经验者优先考虑。</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>联系方式</DIV>
+<DIV>联系人：蔡姣姣</DIV>
+<DIV>电话：021-31006310</DIV>
+<DIV>邮箱：<A href="mailto:dunpu@dp-user.com" target=_blank>dunpu@dp-user.com</A></DIV>
+<DIV>网址：www.dp-user.com</DIV>
+<DIV>公司地址：上海市七莘路1188号七星创业园A座512号</DIV>
+<DIV>&nbsp;</DIV></DIV><br />
+                <br /></td>
+            </tr>
+          </table>
+
+        </div>
+  </div>
+    <div class="clear"></div>
+</div>
+
+<!--main-->
+<!--foot?-->
+ <div class="foot">
+	<div class="foot1">
+       
+      版权所有&nbsp;@&nbsp;西安工业大学大学生毕业指导服务中心&nbsp;&nbsp;&nbsp;地址：陕西省西安市未央大学园区学府中路2号&nbsp;&nbsp;&nbsp; 邮编：710021 </br>
+	       电话：029-86173077&nbsp;&nbsp;86173079 &nbsp;&nbsp;&nbsp;传真：029-86173077&nbsp;&nbsp;&nbsp; E-mail：xagdjy@126.com </br>
+	 
+     <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1000238183'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s22.cnzz.com/z_stat.php%3Fid%3D1000238183' type='text/javascript'%3E%3C/script%3E"));</script>
+     技术支持：<a href="http://www.xashangyu.net" target="_blank"><font color="#FFFFFF">尚誉 </font></a>
+	
+    </div>
+</div>
+ 
+<!---foot-->
+
+
+
+
+</body>
+</html>

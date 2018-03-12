@@ -1,0 +1,286 @@
+Running main() from gtest_main.cc
+[==========] Running 3 tests from 1 test case.
+[----------] Global test environment set-up.
+[----------] 3 tests from Crawler
+[ RUN      ] Crawler.Log
+[I1503457824 crawler_test.cc:5] hello
+[       OK ] Crawler.Log (0 ms)
+[ RUN      ] Crawler.GetUrlList
+[       OK ] Crawler.GetUrlList (1 ms)
+[ RUN      ] Crawler.GetDetailHtml
+[D1503457825 crawler_test.cc:30] <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>西安工业大学就业信息网</title>
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+  <link href="css/simplefoucs_lrtk.css" rel="stylesheet" />
+    <link href="css/nav.css" rel="stylesheet" />
+     <link href="css/banner.css" rel="stylesheet" />
+	   <link href="css/main.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript" src="js/work.js"></script>
+<script type="text/javascript" src="js/iepngfix_tilebg.js"></script>
+<script type="text/javascript" src="js/jQuery.js"></script>
+<script type="text/javascript" src="js/common.js"></script>
+
+
+    <script src="js/jquery-1.9.1.min.js" type="text/javascript"></script>
+    <!--??js-->
+    <script type="text/javascript">
+$(document).ready(function() {
+	
+$("ul#topnav li").hover(function() { //Hover over event on list item
+	$(this).css({ 'background' : '#1376c9 url(topnav_active.gif) repeat-x'}); //Add background color + image on hovered list item
+	$(this).find("span").show(); //Show the subnav
+} , function() { //on hover out...
+	$(this).css({ 'background' : 'none'}); //Ditch the background
+	$(this).find("span").hide(); //Hide the subnav
+});
+	
+});
+</script>
+<!--tab?-->
+<script src="js/organictabs.jquery.js"></script>
+	<script>
+		$(function() {
+		
+			// Calling the plugin
+			$("#example-one").organicTabs();
+			$("#example-two").organicTabs({
+				"speed": 100,
+				"param": "tab"
+			});
+			
+		});
+	</script>
+    
+
+
+
+</HEAD>
+<BODY>
+
+<!--头部-->
+<div class="header">
+	<div class="header1">
+    	<div class="lianxi">
+        	<a href="#"><font color="#FFFFFF">设为首页</font></a>&nbsp;|&nbsp;<a href="#"><font color="#FFFFFF">加入收藏</font></a>&nbsp;
+        </div>
+        <div class="clear"></div>
+    </div>
+
+</div>
+<!--头部结束-->
+<!--导航开始-->
+<div class="navs">
+<div class="navbg">
+  <div class="col960">
+    <ul id="navul" class="cl">
+      <li><a href="/" target="_blank">网站首页</a></li>
+	  
+      <li><a href="#" title="学校概况">学校概况</a>
+        <ul>
+          <li><a href="/xxjj.asp?id=133" title="学校简介">学校简介</a></li>
+          <li><a href="/xysz.asp?id=134" title="学院设置">学院设置</a></li>
+        </ul>
+      </li>
+	  
+      <li><a href="/xwzx.asp" title="新闻资讯">新闻资讯</a></li>
+	  
+      <li><a href="#" title="招聘信息">招聘信息</a>
+        <ul>
+          <li><a href="/RM_Calendar.asp" title="招聘会信息">招聘会信息</a></li>
+          <li><a href="/jyxx.asp" title="单位需求信息">单位需求信息</a></li>
+          <li><a href="/dwxqxx.asp" title="岗位需求信息">岗位需求信息</a></li>
+        </ul>
+      </li>
+	  
+      <li><a href="#" title="单位服务">单位服务</a>
+        <ul>
+          <li><a href="/dwfw.asp?classid=34&classname=招聘指南&mnid=7726&qufen=0" title="招聘指南">招聘指南</a></li>
+          <li><a href="/map/map.asp" title="企业信息">企业信息</a></li>
+          <li><a href="/zxjj.asp?id=267" title="生源信息">生源信息</a></li>
+          <li><a href="/jlzx.asp" title="简历中心">简历中心</a></li>
+        </ul>
+      </li>
+	  
+      <li><a href="#" title="就业指导">就业指导</a>
+        <ul>
+          <li><a href="/jyzd.asp?classid=40&classname=就业政策&mnid=7726&qufen=0" title="就业政策">就业政策</a></li>
+          <li><a href="/jyzd.asp?classid=41&classname=就业指南&mnid=7726&qufen=0" title="就业指南">就业指南</a></li>
+          <li><a href="/jyzd.asp?classid=42&classname=职业测评&mnid=7726&qufen=0" title="职业测评">职业测评</a></li>
+        </ul>
+      </li>
+	  
+      <li><a href="http://xatu.sparktech.cn/innovation" title="创新创业" target="_blank">创新创业</a>
+
+      </li>
+	  
+      <li><a href="/zlxz.asp?classid=45&classname=资料下载&mnid=7726&qufen=0" title="资料下载">资料下载</a></li>
+	  
+      <li><a href="/zxjj.asp?id=153" title="中心简介">中心简介</a></li>
+    </ul>
+  </div>
+</div>
+<script  type="text/javascript"> 
+$(".navbg").capacityFixed();
+</script>
+
+</div>
+<!--导航结束-->
+
+<!--banner?-->
+<div class="nybn">
+  
+</div>
+<!--banner-->
+
+<!--main?-->
+<div class="nymain">
+<div class="nymain_left">
+    	<div class="nrs">
+        	<h1 class="leftnr1">单位需求信息</h1>
+            <div class="zydh">
+            	<ul>
+                    <li><a href="/jyxx.asp">单位需求信息</a></li>
+                </ul>
+            </div>
+            
+        </div>
+  
+        <div class="nrs">
+        	<h1 class="leftnr1">快速通道</h1>
+            <div class="zydh1">
+            	<ul>
+                	<li><a href="/zxjj.asp?id=268" target="_blank">就业流程</a></li>
+                    <li class="r1"><a href="/dwfw.asp?classid=34&classname=招聘指南&mnid=7726&qufen=0" target="_blank">招聘指南</a></li>
+                    <li><a href="/dacx.asp" target="_blank">档案查询</a></li>
+                    <li class="r1"><a href="/xysz.asp?id=134" target="_blank">联系学院</a></li>
+                    <li><a href="http://zbbm.chsi.com.cn" target="_blank">入伍预征</a></li>
+                    <li class="r1"><a href="/zxjj.asp?id=267" target="_blank">生源信息</a></li>
+                    <li><a href="/zlxz.asp?classid=45&classname=资料下载&mnid=7726&qufen=0" target="_blank">资料下载</a></li>
+                    <li class="r1"><a href="/jlzx.asp" target="_blank">简历中心</a></li>
+                    <div class="clear"></div>
+                </ul>
+            </div>
+            
+        </div>
+         <div class="nrs">
+        	<h1 class="leftnr1">工作指南</h1>
+            <div class="zydh1">
+            <!--	 <h2 class="zn">工作时间：</h2> 9:00-12:00 13:00-17:00 （节假日除外） -->
+                 <h2 class="zn">联系电话：</h2>	
+				 单位招聘 029-86173077-601<br>
+                 改派咨询 029-86173077-602<br>
+                 档案查询 029-86173077-603<br>
+                 其他事项 029-86173077-604<br>
+                 校内就业事务 029-86173079<br>
+                 值班电话（寒暑假）：18092157441
+				 <h2 class="zn">联系邮箱：</h2>xagdjy@126.com
+            </div>
+            
+        </div>
+        
+         <div class="nrs">
+        	<h1 class="leftnr1">快速登录</h1>
+            <div class="logins">
+            	<img src="images/login.jpg" width="244" height="150" border="0" usemap="#Map"  />
+                <map name="Map" id="Map">
+                  <area shape="rect" coords="65,22,171,57" href="http://xatu.sparktech.cn">
+                  <area shape="rect" coords="62,65,174,96" href="/denglu.asp">
+                </map>
+            </div>
+            
+            
+        </div>
+    </div>  
+  <div class="nymain_right">
+    	<h1 class="zyright"><span class="weizhi"><a href="/">网站首页</a>>><a href="/jyxx.asp">单位需求信息</a></span><span class="zys">单位需求信息</span></h1>
+        <div class="zynr">
+            
+		  <br />
+          <table width="95%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td height="50" align="center" class="cu sb"><strong>甘肃中海投资管理有限公司2017招聘公告</strong></td>
+            </tr>
+          </table>
+          <table width="95%" height="24" border="0" cellpadding="0" cellspacing="0" bgcolor="#F6F6F6">
+            <tr>
+              <td align="center" class="hui">作者：网站管理员&nbsp;发布时间：2017-6-28&nbsp;点击量：<span class="blue">291</span> 次&nbsp;<a href="javascript:window.close()" >关闭</a></td>
+            </tr>
+          </table>
+		  
+          <br />
+          <table width="95%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td align="left" class="line1 hui1"><DIV>招聘岗位及薪资待遇</DIV>
+<DIV>一、办公室文员<A name=_GoBack></A></DIV>
+<DIV>&nbsp;&nbsp;1、大学本科及以上学历；</DIV>
+<DIV>&nbsp;&nbsp;&nbsp;2、性格开朗，工作严谨，责任心强；</DIV>
+<DIV>&nbsp;&nbsp;&nbsp;3、熟练掌握电脑操作及办公软件，具备基本的网络知识；</DIV>
+<DIV>&nbsp;&nbsp;&nbsp;4、具有较强的语言表达和与客户的沟通协调能力。</DIV>
+<DIV>二、经理助理</DIV>
+<DIV>&nbsp;&nbsp;1、大学本科及以上学历；</DIV>
+<DIV>&nbsp;&nbsp;2、性格开朗，工作严谨，责任心强；</DIV>
+<DIV>&nbsp;&nbsp;3、熟练掌握电脑操作及办公软件，具备基本的网络知识；</DIV>
+<DIV>&nbsp;&nbsp;4、具有较强的语言表达和与客户的沟通协调能力；</DIV>
+<DIV>&nbsp;&nbsp;5、有较强的组织协调沟通能力，计划与执行能力。</DIV>
+<DIV>三、薪资待遇</DIV>
+<DIV>3000-5000</DIV>
+<DIV>其中福利包括提供免费工作午餐</DIV>
+<DIV>四、报名及联系方式</DIV>
+<DIV>网络报名邮箱：<A href="mailto:sxzh2017@126.com" target=_blank>sxzh2017@126.com</A></DIV>
+<DIV>联 系 地&nbsp;&nbsp;址： 西安雁塔区慈恩西路</DIV>
+<DIV>&nbsp;&nbsp;&nbsp;&nbsp;联&nbsp;系 电&nbsp;&nbsp;话：15332431147；15332431347</DIV>
+<DIV>&nbsp;&nbsp;&nbsp;&nbsp;联&nbsp;&nbsp;&nbsp;系&nbsp;&nbsp;&nbsp;人：刘女士</DIV>
+<DIV>&nbsp;</DIV><br />
+                <br /></td>
+            </tr>
+          </table>
+
+        </div>
+  </div>
+    <div class="clear"></div>
+</div>
+
+<!--main-->
+<!--foot?-->
+ <div class="foot">
+	<div class="foot1">
+       
+      版权所有&nbsp;@&nbsp;西安工业大学大学生毕业指导服务中心&nbsp;&nbsp;&nbsp;地址：陕西省西安市未央大学园区学府中路2号&nbsp;&nbsp;&nbsp; 邮编：710021 </br>
+	       电话：029-86173077&nbsp;&nbsp;86173079 &nbsp;&nbsp;&nbsp;传真：029-86173077&nbsp;&nbsp;&nbsp; E-mail：xagdjy@126.com </br>
+	 
+     <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1000238183'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s22.cnzz.com/z_stat.php%3Fid%3D1000238183' type='text/javascript'%3E%3C/script%3E"));</script>
+     技术支持：<a href="http://www.xashangyu.net" target="_blank"><font color="#FFFFFF">尚誉 </font></a>
+	
+    </div>
+</div>
+ 
+<!---foot-->
+
+
+
+
+</body>
+</html>
+
+[       OK ] Crawler.GetDetailHtml (200 ms)
+[----------] 3 tests from Crawler (201 ms total)
+
+[----------] Global test environment tear-down
+[==========] 3 tests from 1 test case ran. (201 ms total)
+[  PASSED  ] 3 tests.

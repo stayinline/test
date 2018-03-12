@@ -1,0 +1,383 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>西安工业大学就业信息网</title>
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+  <link href="css/simplefoucs_lrtk.css" rel="stylesheet" />
+    <link href="css/nav.css" rel="stylesheet" />
+     <link href="css/banner.css" rel="stylesheet" />
+	   <link href="css/main.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript" src="js/work.js"></script>
+<script type="text/javascript" src="js/iepngfix_tilebg.js"></script>
+<script type="text/javascript" src="js/jQuery.js"></script>
+<script type="text/javascript" src="js/common.js"></script>
+
+
+    <script src="js/jquery-1.9.1.min.js" type="text/javascript"></script>
+    <!--??js-->
+    <script type="text/javascript">
+$(document).ready(function() {
+	
+$("ul#topnav li").hover(function() { //Hover over event on list item
+	$(this).css({ 'background' : '#1376c9 url(topnav_active.gif) repeat-x'}); //Add background color + image on hovered list item
+	$(this).find("span").show(); //Show the subnav
+} , function() { //on hover out...
+	$(this).css({ 'background' : 'none'}); //Ditch the background
+	$(this).find("span").hide(); //Hide the subnav
+});
+	
+});
+</script>
+<!--tab?-->
+<script src="js/organictabs.jquery.js"></script>
+	<script>
+		$(function() {
+		
+			// Calling the plugin
+			$("#example-one").organicTabs();
+			$("#example-two").organicTabs({
+				"speed": 100,
+				"param": "tab"
+			});
+			
+		});
+	</script>
+    
+
+
+
+</HEAD>
+<BODY>
+
+<!--头部-->
+<div class="header">
+	<div class="header1">
+    	<div class="lianxi">
+        	<a href="#"><font color="#FFFFFF">设为首页</font></a>&nbsp;|&nbsp;<a href="#"><font color="#FFFFFF">加入收藏</font></a>&nbsp;
+        </div>
+        <div class="clear"></div>
+    </div>
+
+</div>
+<!--头部结束-->
+<!--导航开始-->
+<div class="navs">
+<div class="navbg">
+  <div class="col960">
+    <ul id="navul" class="cl">
+      <li><a href="/" target="_blank">网站首页</a></li>
+	  
+      <li><a href="#" title="学校概况">学校概况</a>
+        <ul>
+          <li><a href="/xxjj.asp?id=133" title="学校简介">学校简介</a></li>
+          <li><a href="/xysz.asp?id=134" title="学院设置">学院设置</a></li>
+        </ul>
+      </li>
+	  
+      <li><a href="/xwzx.asp" title="新闻资讯">新闻资讯</a></li>
+	  
+      <li><a href="#" title="招聘信息">招聘信息</a>
+        <ul>
+          <li><a href="/RM_Calendar.asp" title="招聘会信息">招聘会信息</a></li>
+          <li><a href="/jyxx.asp" title="单位需求信息">单位需求信息</a></li>
+          <li><a href="/dwxqxx.asp" title="岗位需求信息">岗位需求信息</a></li>
+        </ul>
+      </li>
+	  
+      <li><a href="#" title="单位服务">单位服务</a>
+        <ul>
+          <li><a href="/dwfw.asp?classid=34&classname=招聘指南&mnid=7726&qufen=0" title="招聘指南">招聘指南</a></li>
+          <li><a href="/map/map.asp" title="企业信息">企业信息</a></li>
+          <li><a href="/zxjj.asp?id=267" title="生源信息">生源信息</a></li>
+          <li><a href="/jlzx.asp" title="简历中心">简历中心</a></li>
+        </ul>
+      </li>
+	  
+      <li><a href="#" title="就业指导">就业指导</a>
+        <ul>
+          <li><a href="/jyzd.asp?classid=40&classname=就业政策&mnid=7726&qufen=0" title="就业政策">就业政策</a></li>
+          <li><a href="/jyzd.asp?classid=41&classname=就业指南&mnid=7726&qufen=0" title="就业指南">就业指南</a></li>
+          <li><a href="/jyzd.asp?classid=42&classname=职业测评&mnid=7726&qufen=0" title="职业测评">职业测评</a></li>
+        </ul>
+      </li>
+	  
+      <li><a href="http://xatu.sparktech.cn/innovation" title="创新创业" target="_blank">创新创业</a>
+
+      </li>
+	  
+      <li><a href="/zlxz.asp?classid=45&classname=资料下载&mnid=7726&qufen=0" title="资料下载">资料下载</a></li>
+	  
+      <li><a href="/zxjj.asp?id=153" title="中心简介">中心简介</a></li>
+    </ul>
+  </div>
+</div>
+<script  type="text/javascript"> 
+$(".navbg").capacityFixed();
+</script>
+
+</div>
+<!--导航结束-->
+
+<!--banner?-->
+<div class="nybn">
+  
+</div>
+<!--banner-->
+
+<!--main?-->
+<div class="nymain">
+<div class="nymain_left">
+    	<div class="nrs">
+        	<h1 class="leftnr1">单位需求信息</h1>
+            <div class="zydh">
+            	<ul>
+                    <li><a href="/jyxx.asp">单位需求信息</a></li>
+                </ul>
+            </div>
+            
+        </div>
+  
+        <div class="nrs">
+        	<h1 class="leftnr1">快速通道</h1>
+            <div class="zydh1">
+            	<ul>
+                	<li><a href="/zxjj.asp?id=268" target="_blank">就业流程</a></li>
+                    <li class="r1"><a href="/dwfw.asp?classid=34&classname=招聘指南&mnid=7726&qufen=0" target="_blank">招聘指南</a></li>
+                    <li><a href="/dacx.asp" target="_blank">档案查询</a></li>
+                    <li class="r1"><a href="/xysz.asp?id=134" target="_blank">联系学院</a></li>
+                    <li><a href="http://zbbm.chsi.com.cn" target="_blank">入伍预征</a></li>
+                    <li class="r1"><a href="/zxjj.asp?id=267" target="_blank">生源信息</a></li>
+                    <li><a href="/zlxz.asp?classid=45&classname=资料下载&mnid=7726&qufen=0" target="_blank">资料下载</a></li>
+                    <li class="r1"><a href="/jlzx.asp" target="_blank">简历中心</a></li>
+                    <div class="clear"></div>
+                </ul>
+            </div>
+            
+        </div>
+         <div class="nrs">
+        	<h1 class="leftnr1">工作指南</h1>
+            <div class="zydh1">
+            <!--	 <h2 class="zn">工作时间：</h2> 9:00-12:00 13:00-17:00 （节假日除外） -->
+                 <h2 class="zn">联系电话：</h2>	
+				 单位招聘 029-86173077-601<br>
+                 改派咨询 029-86173077-602<br>
+                 档案查询 029-86173077-603<br>
+                 其他事项 029-86173077-604<br>
+                 校内就业事务 029-86173079<br>
+                 值班电话（寒暑假）：18092157441
+				 <h2 class="zn">联系邮箱：</h2>xagdjy@126.com
+            </div>
+            
+        </div>
+        
+         <div class="nrs">
+        	<h1 class="leftnr1">快速登录</h1>
+            <div class="logins">
+            	<img src="images/login.jpg" width="244" height="150" border="0" usemap="#Map"  />
+                <map name="Map" id="Map">
+                  <area shape="rect" coords="65,22,171,57" href="http://xatu.sparktech.cn">
+                  <area shape="rect" coords="62,65,174,96" href="/denglu.asp">
+                </map>
+            </div>
+            
+            
+        </div>
+    </div>  
+  <div class="nymain_right">
+    	<h1 class="zyright"><span class="weizhi"><a href="/">网站首页</a>>><a href="/jyxx.asp">单位需求信息</a></span><span class="zys">单位需求信息</span></h1>
+        <div class="zynr">
+            
+		  <br />
+          <table width="95%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td height="50" align="center" class="cu sb"><strong>柳州延龙汽车有限公司招聘公告</strong></td>
+            </tr>
+          </table>
+          <table width="95%" height="24" border="0" cellpadding="0" cellspacing="0" bgcolor="#F6F6F6">
+            <tr>
+              <td align="center" class="hui">作者：网站管理员&nbsp;发布时间：2017-6-27&nbsp;点击量：<span class="blue">273</span> 次&nbsp;<a href="javascript:window.close()" >关闭</a></td>
+            </tr>
+          </table>
+		  
+          <br />
+          <table width="95%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td align="left" class="line1 hui1"><DIV>柳州延龙汽车有限公司及其子公司是上市公司江苏保千里视像科技集团股份有限公司（股票代码：600074）的控股子公司，是经国家工信部批准的专用汽车和新能源汽车整车生产企业、国家高新技术企业、省级技术中心，多次获得广西著名商标、广西名牌产品等荣誉称号。</DIV>
+<DIV>公司网站：&nbsp;<A href="http://www.lzylqc.com/" target=_blank>http://www.lzylqc.com/</A></DIV>
+<DIV>&nbsp;</DIV>
+<DIV>现向全国各高等院校应届本科、研究生、博士生诚聘以下岗位(见附件)。</DIV>
+<DIV>投递简历基本要求：</DIV>
+<DIV>一、发送简历：</DIV>
+<DIV>省内高校发<A href="mailto:%E4%B8%AA%E4%BA%BA%E7%9B%B8%E5%85%B3%E8%B5%84%E6%96%99%E7%AE%80%E5%8E%86%E7%AD%89%E5%8F%91%E9%82%AE%E4%BB%B6%E8%87%B3lzylgl@163.com" target=_blank>至</A><A href="mailto:%E4%B8%AA%E4%BA%BA%E7%9B%B8%E5%85%B3%E8%B5%84%E6%96%99%E7%AE%80%E5%8E%86%E7%AD%89%E5%8F%91%E9%82%AE%E4%BB%B6%E8%87%B3lzylgl@163.com" target=_blank>&nbsp;lzylrc@163.com</A>，<A href="mailto:%E7%9C%81%E5%A4%96%E9%AB%98%E6%A0%A1%E5%8F%91%E8%87%B3lzylrcwh@163.com" target=_blank>省外高校发至</A><A href="mailto:%E7%9C%81%E5%A4%96%E9%AB%98%E6%A0%A1%E5%8F%91%E8%87%B3lzylrcwh@163.com" target=_blank>lzylrcwh@163.com</A>。</DIV>
+<DIV>二、发送格式要求：</DIV>
+<DIV>以word格式发送，文件名格式：应聘者姓名+院校名称+专业+应聘岗位+手机号码+身高（CM）+体重（KG）+2张5寸个人生活彩照。未按要求投递简历的将无法审核。</DIV><BR clear=all>
+<DIV>招聘岗位：</DIV>
+<DIV align=center>
+<TABLE border=1 cellSpacing=0 cellPadding=0 width=660>
+<TBODY>
+<TR>
+<TD vAlign=center>
+<DIV>工作类别</DIV><BR clear=all></TD>
+<TD vAlign=center>
+<DIV>岗位</DIV></TD>
+<TD vAlign=center>
+<DIV>要求</DIV></TD>
+<TD vAlign=center>
+<DIV>人数</DIV></TD></TR>
+<TR>
+<TD vAlign=center rowSpan=3>
+<DIV>技术</DIV>
+<DIV>&nbsp;</DIV></TD>
+<TD vAlign=center>
+<H1><FONT size=2>技术工程师</FONT></H1></TD>
+<TD vAlign=center>
+<DIV>1.本科或以上学历，车辆工程、机械设计等相关专业；</DIV>
+<DIV>2.熟练使用UG、CATIA、Pro/E等三维软件之一，CAD制图。</DIV></TD>
+<TD vAlign=center>
+<DIV>20</DIV></TD></TR>
+<TR>
+<TD vAlign=center>
+<DIV>电气工程师</DIV></TD>
+<TD vAlign=center>
+<DIV>1.电子电气相关专业本科及以上学历；</DIV>
+<DIV>2.熟练掌握单片机运用和C语言编程；</DIV>
+<DIV>3.悉单片机常用的UART、SPI、I2C、CAN等外设控制，了解CAN总线通讯；</DIV>
+<DIV>4.能熟练运用labview、VC、C#设计界面。</DIV></TD>
+<TD vAlign=center>
+<DIV>5</DIV></TD></TR>
+<TR>
+<TD vAlign=center>
+<DIV>工艺员</DIV></TD>
+<TD vAlign=center>
+<DIV>1.本科学历，车辆工程、机械设计等相关专业；</DIV>
+<DIV>2.了解UG、CATIA、Pro/E等三维软件之一，会使用CAD.会看图纸；</DIV>
+<DIV>3.学习能力强，服从安排。</DIV></TD>
+<TD vAlign=center>
+<DIV>5</DIV></TD></TR>
+<TR>
+<TD vAlign=center rowSpan=2>
+<DIV>售后</DIV></TD>
+<TD vAlign=center>
+<DIV>售后工程师</DIV></TD>
+<TD vAlign=center>
+<DIV>1.男性，本科及以上学历，车辆工程、汽修类相关专业；</DIV>
+<DIV>2.负责售后服务相关工作，能适应经常性出差；</DIV>
+<DIV>3.持有C1以上执照并能熟练驾驶车辆；</DIV>
+<DIV>4.具备一定的动手能力和学习能力。</DIV></TD>
+<TD vAlign=center>
+<DIV>5</DIV></TD></TR>
+<TR>
+<TD vAlign=center>
+<DIV>汽车维修</DIV>
+<DIV>技师</DIV></TD>
+<TD vAlign=center>
+<DIV>1、汽车检测与维修专业；</DIV>
+<DIV>2、具有坚韧的毅力和优秀素养以及高度的责任感和严谨的工作态度；</DIV>
+<DIV>3、具有丰富的汽车修理知识；</DIV>
+<DIV>4、有驾照，善于沟通，服从公司管理，工作积极，勤奋好学，动手能力强。</DIV></TD>
+<TD vAlign=center>
+<DIV>5</DIV></TD></TR>
+<TR>
+<TD vAlign=center rowSpan=6>
+<DIV>管理</DIV></TD>
+<TD vAlign=center>
+<DIV>储备干部</DIV></TD>
+<TD vAlign=center>
+<DIV>1、本科及以上学历，文秘、公关、企业管理、人力资源、企划等相关专业；</DIV>
+<DIV>2、熟练使用办公软件；</DIV>
+<DIV>3、形象气质佳，有较好的沟通能力，细心耐心、应变能力强；</DIV>
+<DIV>4、性格开朗，能吃苦耐劳。</DIV></TD>
+<TD vAlign=center>
+<DIV>10</DIV></TD></TR>
+<TR>
+<TD vAlign=center>
+<DIV>总经理助理</DIV></TD>
+<TD vAlign=center>
+<DIV>1、本科及以上学历，文秘、公关、行政管理、工商管理等相关专业；</DIV>
+<DIV>2、具备解决复杂问题的能力、独立工作能力、工作推进能力和极强的执行力、沟通力；</DIV>
+<DIV>3、具备一定的文字功底，工作有条理性、逻辑性，良好的职业素养和职业操守，良好的团队协作精神；</DIV>
+<DIV>4、形象气质佳。</DIV></TD>
+<TD vAlign=center>
+<DIV>2</DIV></TD></TR>
+<TR>
+<TD vAlign=center>
+<DIV>董事长助理</DIV></TD>
+<TD vAlign=center>
+<DIV>1、本科及以上学历；</DIV>
+<DIV>2、能承受较大工作压力，善于学习；</DIV>
+<DIV>3、建立良好外部公共关系，参与各种各类活动、会议等；</DIV>
+<DIV>4、形象气质佳，责任心强，为人正直，具备良好的职业操守及团队合作精神。</DIV></TD>
+<TD vAlign=center>
+<DIV>2</DIV></TD></TR>
+<TR>
+<TD vAlign=center>
+<DIV>法务</DIV></TD>
+<TD vAlign=center>
+<DIV>1、本科及以上学历，法律相关专业，持有法律职业资格证（A证）；<BR>2、具备扎实的法律理论基础，知悉法律风控理念，能够独立解决简单的法律问题；</DIV>
+<DIV>3、为人诚实、正直，具有务实的实战态度，严谨的法律思维，以及敏锐的法务眼光。</DIV></TD>
+<TD vAlign=center>
+<DIV>3</DIV></TD></TR>
+<TR>
+<TD vAlign=center>
+<DIV>公关媒体</DIV></TD>
+<TD vAlign=center>
+<DIV>1、本科及以上学历，扎实的文字功底，具备较强的文案策划功底以及活动策划能力；</DIV>
+<DIV>2、具备良好的数据分析、图片处理能力、语言及文字表达能力、跨团队协作能力；</DIV>
+<DIV>3、熟悉网络环境，熟练操作网络工具，熟练运用设计软件。</DIV></TD>
+<TD vAlign=center>
+<DIV>5</DIV></TD></TR>
+<TR>
+<TD vAlign=center>
+<DIV>财务管理</DIV></TD>
+<TD vAlign=center>
+<DIV>1、本科及以上学历，财务管理、会计、统计等相关专业；</DIV>
+<DIV>2、做事周密严谨、有耐心，较强的分析判断、协调能力；</DIV>
+<DIV>3、有会计从业资格证，有同岗位工作经验，持C1驾照优先；</DIV>
+<DIV>4、有良好的沟通表达能力。</DIV></TD>
+<TD vAlign=center>
+<DIV>3</DIV></TD></TR></TBODY></TABLE></DIV>
+<DIV>&nbsp;</DIV><br />
+                <br /></td>
+            </tr>
+          </table>
+
+        </div>
+  </div>
+    <div class="clear"></div>
+</div>
+
+<!--main-->
+<!--foot?-->
+ <div class="foot">
+	<div class="foot1">
+       
+      版权所有&nbsp;@&nbsp;西安工业大学大学生毕业指导服务中心&nbsp;&nbsp;&nbsp;地址：陕西省西安市未央大学园区学府中路2号&nbsp;&nbsp;&nbsp; 邮编：710021 </br>
+	       电话：029-86173077&nbsp;&nbsp;86173079 &nbsp;&nbsp;&nbsp;传真：029-86173077&nbsp;&nbsp;&nbsp; E-mail：xagdjy@126.com </br>
+	 
+     <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1000238183'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s22.cnzz.com/z_stat.php%3Fid%3D1000238183' type='text/javascript'%3E%3C/script%3E"));</script>
+     技术支持：<a href="http://www.xashangyu.net" target="_blank"><font color="#FFFFFF">尚誉 </font></a>
+	
+    </div>
+</div>
+ 
+<!---foot-->
+
+
+
+
+</body>
+</html>

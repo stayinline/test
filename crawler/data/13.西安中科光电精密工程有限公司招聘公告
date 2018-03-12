@@ -1,0 +1,345 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>西安工业大学就业信息网</title>
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+  <link href="css/simplefoucs_lrtk.css" rel="stylesheet" />
+    <link href="css/nav.css" rel="stylesheet" />
+     <link href="css/banner.css" rel="stylesheet" />
+	   <link href="css/main.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript" src="js/work.js"></script>
+<script type="text/javascript" src="js/iepngfix_tilebg.js"></script>
+<script type="text/javascript" src="js/jQuery.js"></script>
+<script type="text/javascript" src="js/common.js"></script>
+
+
+    <script src="js/jquery-1.9.1.min.js" type="text/javascript"></script>
+    <!--??js-->
+    <script type="text/javascript">
+$(document).ready(function() {
+	
+$("ul#topnav li").hover(function() { //Hover over event on list item
+	$(this).css({ 'background' : '#1376c9 url(topnav_active.gif) repeat-x'}); //Add background color + image on hovered list item
+	$(this).find("span").show(); //Show the subnav
+} , function() { //on hover out...
+	$(this).css({ 'background' : 'none'}); //Ditch the background
+	$(this).find("span").hide(); //Hide the subnav
+});
+	
+});
+</script>
+<!--tab?-->
+<script src="js/organictabs.jquery.js"></script>
+	<script>
+		$(function() {
+		
+			// Calling the plugin
+			$("#example-one").organicTabs();
+			$("#example-two").organicTabs({
+				"speed": 100,
+				"param": "tab"
+			});
+			
+		});
+	</script>
+    
+
+
+
+</HEAD>
+<BODY>
+
+<!--头部-->
+<div class="header">
+	<div class="header1">
+    	<div class="lianxi">
+        	<a href="#"><font color="#FFFFFF">设为首页</font></a>&nbsp;|&nbsp;<a href="#"><font color="#FFFFFF">加入收藏</font></a>&nbsp;
+        </div>
+        <div class="clear"></div>
+    </div>
+
+</div>
+<!--头部结束-->
+<!--导航开始-->
+<div class="navs">
+<div class="navbg">
+  <div class="col960">
+    <ul id="navul" class="cl">
+      <li><a href="/" target="_blank">网站首页</a></li>
+	  
+      <li><a href="#" title="学校概况">学校概况</a>
+        <ul>
+          <li><a href="/xxjj.asp?id=133" title="学校简介">学校简介</a></li>
+          <li><a href="/xysz.asp?id=134" title="学院设置">学院设置</a></li>
+        </ul>
+      </li>
+	  
+      <li><a href="/xwzx.asp" title="新闻资讯">新闻资讯</a></li>
+	  
+      <li><a href="#" title="招聘信息">招聘信息</a>
+        <ul>
+          <li><a href="/RM_Calendar.asp" title="招聘会信息">招聘会信息</a></li>
+          <li><a href="/jyxx.asp" title="单位需求信息">单位需求信息</a></li>
+          <li><a href="/dwxqxx.asp" title="岗位需求信息">岗位需求信息</a></li>
+        </ul>
+      </li>
+	  
+      <li><a href="#" title="单位服务">单位服务</a>
+        <ul>
+          <li><a href="/dwfw.asp?classid=34&classname=招聘指南&mnid=7726&qufen=0" title="招聘指南">招聘指南</a></li>
+          <li><a href="/map/map.asp" title="企业信息">企业信息</a></li>
+          <li><a href="/zxjj.asp?id=267" title="生源信息">生源信息</a></li>
+          <li><a href="/jlzx.asp" title="简历中心">简历中心</a></li>
+        </ul>
+      </li>
+	  
+      <li><a href="#" title="就业指导">就业指导</a>
+        <ul>
+          <li><a href="/jyzd.asp?classid=40&classname=就业政策&mnid=7726&qufen=0" title="就业政策">就业政策</a></li>
+          <li><a href="/jyzd.asp?classid=41&classname=就业指南&mnid=7726&qufen=0" title="就业指南">就业指南</a></li>
+          <li><a href="/jyzd.asp?classid=42&classname=职业测评&mnid=7726&qufen=0" title="职业测评">职业测评</a></li>
+        </ul>
+      </li>
+	  
+      <li><a href="http://xatu.sparktech.cn/innovation" title="创新创业" target="_blank">创新创业</a>
+
+      </li>
+	  
+      <li><a href="/zlxz.asp?classid=45&classname=资料下载&mnid=7726&qufen=0" title="资料下载">资料下载</a></li>
+	  
+      <li><a href="/zxjj.asp?id=153" title="中心简介">中心简介</a></li>
+    </ul>
+  </div>
+</div>
+<script  type="text/javascript"> 
+$(".navbg").capacityFixed();
+</script>
+
+</div>
+<!--导航结束-->
+
+<!--banner?-->
+<div class="nybn">
+  
+</div>
+<!--banner-->
+
+<!--main?-->
+<div class="nymain">
+<div class="nymain_left">
+    	<div class="nrs">
+        	<h1 class="leftnr1">单位需求信息</h1>
+            <div class="zydh">
+            	<ul>
+                    <li><a href="/jyxx.asp">单位需求信息</a></li>
+                </ul>
+            </div>
+            
+        </div>
+  
+        <div class="nrs">
+        	<h1 class="leftnr1">快速通道</h1>
+            <div class="zydh1">
+            	<ul>
+                	<li><a href="/zxjj.asp?id=268" target="_blank">就业流程</a></li>
+                    <li class="r1"><a href="/dwfw.asp?classid=34&classname=招聘指南&mnid=7726&qufen=0" target="_blank">招聘指南</a></li>
+                    <li><a href="/dacx.asp" target="_blank">档案查询</a></li>
+                    <li class="r1"><a href="/xysz.asp?id=134" target="_blank">联系学院</a></li>
+                    <li><a href="http://zbbm.chsi.com.cn" target="_blank">入伍预征</a></li>
+                    <li class="r1"><a href="/zxjj.asp?id=267" target="_blank">生源信息</a></li>
+                    <li><a href="/zlxz.asp?classid=45&classname=资料下载&mnid=7726&qufen=0" target="_blank">资料下载</a></li>
+                    <li class="r1"><a href="/jlzx.asp" target="_blank">简历中心</a></li>
+                    <div class="clear"></div>
+                </ul>
+            </div>
+            
+        </div>
+         <div class="nrs">
+        	<h1 class="leftnr1">工作指南</h1>
+            <div class="zydh1">
+            <!--	 <h2 class="zn">工作时间：</h2> 9:00-12:00 13:00-17:00 （节假日除外） -->
+                 <h2 class="zn">联系电话：</h2>	
+				 单位招聘 029-86173077-601<br>
+                 改派咨询 029-86173077-602<br>
+                 档案查询 029-86173077-603<br>
+                 其他事项 029-86173077-604<br>
+                 校内就业事务 029-86173079<br>
+                 值班电话（寒暑假）：18092157441
+				 <h2 class="zn">联系邮箱：</h2>xagdjy@126.com
+            </div>
+            
+        </div>
+        
+         <div class="nrs">
+        	<h1 class="leftnr1">快速登录</h1>
+            <div class="logins">
+            	<img src="images/login.jpg" width="244" height="150" border="0" usemap="#Map"  />
+                <map name="Map" id="Map">
+                  <area shape="rect" coords="65,22,171,57" href="http://xatu.sparktech.cn">
+                  <area shape="rect" coords="62,65,174,96" href="/denglu.asp">
+                </map>
+            </div>
+            
+            
+        </div>
+    </div>  
+  <div class="nymain_right">
+    	<h1 class="zyright"><span class="weizhi"><a href="/">网站首页</a>>><a href="/jyxx.asp">单位需求信息</a></span><span class="zys">单位需求信息</span></h1>
+        <div class="zynr">
+            
+		  <br />
+          <table width="95%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td height="50" align="center" class="cu sb"><strong>西安中科光电精密工程有限公司招聘公告</strong></td>
+            </tr>
+          </table>
+          <table width="95%" height="24" border="0" cellpadding="0" cellspacing="0" bgcolor="#F6F6F6">
+            <tr>
+              <td align="center" class="hui">作者：网站管理员&nbsp;发布时间：2017-6-27&nbsp;点击量：<span class="blue">296</span> 次&nbsp;<a href="javascript:window.close()" >关闭</a></td>
+            </tr>
+          </table>
+		  
+          <br />
+          <table width="95%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td align="left" class="line1 hui1"><DIV></DIV>
+<DIV>西安中科光电精密工程有限公司成立于2013年4月，专业从事军工光电装备、智能工业机器人系统和专用自动化设备研发与生产工作。公司致力于突破智能视觉关键技术，掌握广义视觉信息采集技术、精密传感与测量技术、并行处理计算、精密机械设计等交叉学科及关联技术，解决军工及制造业中的“精确测量、智能识别、精密控制”问题。</DIV>
+<DIV>公司核心技术团队长期从事军工装备研发，在光电信息获取及智能处理领域有深厚积累，团队目前拥有研究员3人，博士7人，硕士及以上学历人员占81%。公司秉承“规范协作、成果共享、合作共赢”的发展理念，践行现代技术管理理念，初步建立了规范、高效的技术研发管理体系，对外显现出强大的技术创新竞争力；开放兼容、利益共享，依托高校及科研院所，以多种方式整合技术资源，也是公司拥有强大技术竞争力的重要原因，截止2016年底，公司已申请专利30项。荣获国家高新技术企业、三级保密资格、GJB9001B-2009质量管理体系认证、知识产权管理体系认证、两化融合示范企业等荣誉资质。</DIV>
+<DIV>坚持市场导向，坚持技术创新，以优质服务和优质产品解决客户疼点问题，在创造新的价值增值基础上，促进公司与客户共同发展，是公司基本经营理念。立足军工，以军工需求带动技术提升；拓展民品，将技术成果应用于智能制造领域；响应军民融合号召，提升我国高端装备水平，成为智能时代开创者，打造具有一流国际竞争力的现代企业，是公司的使命和愿景规划。现诚邀有创业精神和团队合作意识、诚信乐观、有志向、有抱负的朋友加入我们的团队！</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>【岗位需求】</DIV>
+<DIV>一、图像处理工程师：2名(薪资9000-12000元/月)</DIV>
+<DIV>任职资格：</DIV>
+<DIV>1、电子信息、自动控制、图像处理相关专业重点院校硕士及以上学历；</DIV>
+<DIV>2、具备较强的逻辑分析和动手能力，具备相关算法、软件设计、调试能力；</DIV>
+<DIV>3、熟练掌握C/C++等编程语言，具有比较规范的编程习惯和较强的编程调试能力，熟悉opencv cuda库优先；</DIV>
+<DIV>4、有良好的沟通、学习能力与团队合作精神。</DIV>
+<DIV>岗位要求：</DIV>
+<DIV>1、图像算法软件设计、编写及调试；</DIV>
+<DIV>2、编写软件算法设计相关的各类型文件。</DIV>
+<DIV>二、软件工程师：2名(薪资10000-13000元/月)</DIV>
+<DIV>任职资格：</DIV>
+<DIV>1、光学工程、应用数学、计算机、控制理论与控制工程等相关专业硕士及以上学历，有工作经验者优先；</DIV>
+<DIV>2、精通C/C++编程语言，具有2年以上C/C++编程经验；</DIV>
+<DIV>3、具备良好的逻辑思维和分析能力；</DIV>
+<DIV>4、熟悉软件工程，具有软件项目经验者优先；</DIV>
+<DIV>5、有良好的沟通、学习能力与团队合作精神。</DIV>
+<DIV>岗位要求：</DIV>
+<DIV>1、测量系统软件及用户软件设计及调试；</DIV>
+<DIV>2、测试工具软件设计及调试；</DIV>
+<DIV>3、交会测量算法设计及验证。</DIV>
+<DIV>三、光学设计工程师：1名(薪资8000-10000元/月)</DIV>
+<DIV>任职资格：</DIV>
+<DIV>1、重点院校光学、光电、光学工程专业硕士或博士学历；</DIV>
+<DIV>2、熟练运用光学设计软件，熟悉一般光电测试仪器；</DIV>
+<DIV>3、具备扎实的光学设计理论，能够熟练运用Zemax、Code V、Trace Pro等相关光学设计软件辅助完成光学系统的设计和分析；</DIV>
+<DIV>4、熟悉光学冷加工工艺、光机系统装配工艺、光学参数检测原理、方法和仪器</DIV>
+<DIV>5、具有光学设计或光电系统测试、光学加工从业经验者优先。</DIV>
+<DIV>岗位要求：</DIV>
+<DIV>1、光学测量和成像系统光学设计；</DIV>
+<DIV>2、按照任务书及相关技术要求文件完成光学系统设计；</DIV>
+<DIV>3、制定用于生产、装配、调试、测量用的相关工艺；参与产品的研制过程。</DIV>
+<DIV>四、总经理技术助理：1名(薪资7000-9000元/月)</DIV>
+<DIV>任职资格：&nbsp;&nbsp;&nbsp;&nbsp;</DIV>
+<DIV>1、光电类、应用物理等相关专业背景，985工程重点院校或国家级研究院所硕士学历或拥有博士学位，年龄35岁以下；</DIV>
+<DIV>2、知识面宽，学习能力强，写作功底好，有良好的人际沟通协调能力和逻辑思维能力；</DIV>
+<DIV>3、有英文论文写作能力，有工程项目经历者优先；</DIV>
+<DIV>4、乐观向上，身体健康并愿意承受高强度工作压力，有驾驶经验优先。</DIV>
+<DIV>岗位要求：</DIV>
+<DIV>1、协助总经理进行技术事务调研和分析；</DIV>
+<DIV>2、根据总经理要求进行企业技术工作的前期论证；</DIV>
+<DIV>3、协助总经理进行规范技术管理制度；</DIV>
+<DIV>4、总经理交办的其他临时性工作。</DIV>
+<DIV>五、电子电路工程师：2名(薪资8000-11000元/月)</DIV>
+<DIV>任职资格：</DIV>
+<DIV>1、重点院校电子工程、电路与系统、信号处理、通讯等电子电路相关专业硕士及以上学历；</DIV>
+<DIV>2、熟练掌握电路设计软件，熟悉单片机、DSP开发流程，能够进行嵌入式软件开发，同时具备独立进行电路设计及电系统调试能力；</DIV>
+<DIV>3、有较强的学习能力、动手能力、沟通能力以及团队合作能力，工作抗压能力强；</DIV>
+<DIV>4、具有相关工作经验者优先。</DIV>
+<DIV>岗位要求：</DIV>
+<DIV>1、负责电子电路设计,包括原理图和PCB板设计；</DIV>
+<DIV>2、负责单片机、DSP等嵌入式程序编写；</DIV>
+<DIV>3、负责电路、电系统调试等工作。</DIV>
+<DIV>六、电气设计师：2名(薪资7500-10000元/月)</DIV>
+<DIV>任职资格：</DIV>
+<DIV>1、重点院校机械电子工程、检测技术与自动化装置、电力系统及其自动化等相关专业硕士或博士学历；</DIV>
+<DIV>2、熟悉自动化设备的结构组成、执行机构的工作原理、传感检测技术、控制理论和方法，能承担自动化设备研制过程中的电气系统设计、信号与信息处理和控制策略开发；</DIV>
+<DIV>3、具有良好的团队协作和沟通协作能力，工作效率高；</DIV>
+<DIV>4、具有相关项目经历或行业经验者优先。</DIV>
+<DIV>岗位要求：</DIV>
+<DIV>1、根据自动化设备功能和性能要求，分析执行机构工作原理、负责动力元件选型、传感检测装置选型或设计，完成电气系统设计；</DIV>
+<DIV>2、分析自动化设备的各项传感信号类型、进行信息融合处理，完成系统的控制策略；</DIV>
+<DIV>3、负责自动化设备研制阶段的模块单元和系统装配、调试工艺制定，参与具体的装调工作。</DIV>
+<DIV>七、嵌入式系统硬件工程师：2名(薪资7500-9000元/月)</DIV>
+<DIV>任职资格：</DIV>
+<DIV>1、图像处理、电子信息、自动控制等相关专业重点院校硕士；</DIV>
+<DIV>2、具备较强的逻辑分析和动手能力，熟练掌握EDA设计软件，具备相关软硬件系统设计、调试能力，具有嵌入式软件（硬件）开发经验；</DIV>
+<DIV>3、熟悉DSP、FPGA设计开发流程，具备相关开发经验；</DIV>
+<DIV>4、有良好的沟通、学习能力与团队合作精神。</DIV>
+<DIV>岗位要求：</DIV>
+<DIV>1、嵌入式软硬件设计、调试；</DIV>
+<DIV>2、电子电路电磁兼容性分析；</DIV>
+<DIV>3、CCD\CMOS成像及其他光电信号处理软硬件研发。</DIV>
+<DIV>八、嵌入式软件研发工程师：2名(薪资8000-10000元/月)</DIV>
+<DIV>任职资格：</DIV>
+<DIV>1、电子信息、自动控制、光学工程等相关专业重点院校硕士及以上学历；</DIV>
+<DIV>2、具备较强的逻辑分析和动手能力，具备相关算法、软件设计、调试能力；</DIV>
+<DIV>3、熟悉EDA设计软件，掌握DSP/FPGA等平台的嵌入式软件设计开发流程，具备相关开发经验，熟悉电机矢量控制算法者优先；</DIV>
+<DIV>4、熟练掌握C/C++等编程语言，具有比较规范的编程习惯和较强的编程调试能力；</DIV>
+<DIV>5、有良好的沟通、学习能力与团队合作精神。</DIV>
+<DIV>岗位要求：</DIV>
+<DIV>1、嵌入式算法、软件设计及调试；</DIV>
+<DIV>2、按照任务书及相关技术要求文件完成DSP/FPGA等平台的嵌入式软件的方案设计；</DIV>
+<DIV>3、负责DSP/FPGA等平台的嵌入式软件的具体设计、开发和调试，具有故障定位、解决问题的能力；</DIV>
+<DIV>4、负责CCD/CMOS等成像器件的光电信号处理嵌入式软件设计、开发和调试。</DIV>
+<DIV>【企业福利】&nbsp;&nbsp;&nbsp;</DIV>
+<DIV>1、依法提供养老、医疗、工伤、生育、失业、住房公积金及商业保险社会福利待遇；</DIV>
+<DIV>2、公司提供企业年金、带薪年假、项目奖金、岗位培训、年度体检、健康运动等员工福利。&nbsp;&nbsp;&nbsp;&nbsp;</DIV>
+<DIV>有意者请将个人简历发至<A href="mailto:zkgdhr@126.com" target=_blank>zkgdhr@126.com</A>，邮寄简历时请将邮件主题及文档名均以应聘岗位—专业—毕业院校—学历—姓名的格式发送。</DIV>
+<DIV>联系电话：029-68590519&nbsp;&nbsp;赵老师&nbsp;&nbsp;孙老师</DIV>
+<DIV>联系地址：西安市高新区丈八五路二号现代企业中心东区3栋3层10302室</DIV>
+<DIV>&nbsp;</DIV><br />
+                <br /></td>
+            </tr>
+          </table>
+
+        </div>
+  </div>
+    <div class="clear"></div>
+</div>
+
+<!--main-->
+<!--foot?-->
+ <div class="foot">
+	<div class="foot1">
+       
+      版权所有&nbsp;@&nbsp;西安工业大学大学生毕业指导服务中心&nbsp;&nbsp;&nbsp;地址：陕西省西安市未央大学园区学府中路2号&nbsp;&nbsp;&nbsp; 邮编：710021 </br>
+	       电话：029-86173077&nbsp;&nbsp;86173079 &nbsp;&nbsp;&nbsp;传真：029-86173077&nbsp;&nbsp;&nbsp; E-mail：xagdjy@126.com </br>
+	 
+     <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1000238183'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s22.cnzz.com/z_stat.php%3Fid%3D1000238183' type='text/javascript'%3E%3C/script%3E"));</script>
+     技术支持：<a href="http://www.xashangyu.net" target="_blank"><font color="#FFFFFF">尚誉 </font></a>
+	
+    </div>
+</div>
+ 
+<!---foot-->
+
+
+
+
+</body>
+</html>

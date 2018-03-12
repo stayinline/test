@@ -1,0 +1,327 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>西安工业大学就业信息网</title>
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+  <link href="css/simplefoucs_lrtk.css" rel="stylesheet" />
+    <link href="css/nav.css" rel="stylesheet" />
+     <link href="css/banner.css" rel="stylesheet" />
+	   <link href="css/main.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript" src="js/work.js"></script>
+<script type="text/javascript" src="js/iepngfix_tilebg.js"></script>
+<script type="text/javascript" src="js/jQuery.js"></script>
+<script type="text/javascript" src="js/common.js"></script>
+
+
+    <script src="js/jquery-1.9.1.min.js" type="text/javascript"></script>
+    <!--??js-->
+    <script type="text/javascript">
+$(document).ready(function() {
+	
+$("ul#topnav li").hover(function() { //Hover over event on list item
+	$(this).css({ 'background' : '#1376c9 url(topnav_active.gif) repeat-x'}); //Add background color + image on hovered list item
+	$(this).find("span").show(); //Show the subnav
+} , function() { //on hover out...
+	$(this).css({ 'background' : 'none'}); //Ditch the background
+	$(this).find("span").hide(); //Hide the subnav
+});
+	
+});
+</script>
+<!--tab?-->
+<script src="js/organictabs.jquery.js"></script>
+	<script>
+		$(function() {
+		
+			// Calling the plugin
+			$("#example-one").organicTabs();
+			$("#example-two").organicTabs({
+				"speed": 100,
+				"param": "tab"
+			});
+			
+		});
+	</script>
+    
+
+
+
+</HEAD>
+<BODY>
+
+<!--头部-->
+<div class="header">
+	<div class="header1">
+    	<div class="lianxi">
+        	<a href="#"><font color="#FFFFFF">设为首页</font></a>&nbsp;|&nbsp;<a href="#"><font color="#FFFFFF">加入收藏</font></a>&nbsp;
+        </div>
+        <div class="clear"></div>
+    </div>
+
+</div>
+<!--头部结束-->
+<!--导航开始-->
+<div class="navs">
+<div class="navbg">
+  <div class="col960">
+    <ul id="navul" class="cl">
+      <li><a href="/" target="_blank">网站首页</a></li>
+	  
+      <li><a href="#" title="学校概况">学校概况</a>
+        <ul>
+          <li><a href="/xxjj.asp?id=133" title="学校简介">学校简介</a></li>
+          <li><a href="/xysz.asp?id=134" title="学院设置">学院设置</a></li>
+        </ul>
+      </li>
+	  
+      <li><a href="/xwzx.asp" title="新闻资讯">新闻资讯</a></li>
+	  
+      <li><a href="#" title="招聘信息">招聘信息</a>
+        <ul>
+          <li><a href="/RM_Calendar.asp" title="招聘会信息">招聘会信息</a></li>
+          <li><a href="/jyxx.asp" title="单位需求信息">单位需求信息</a></li>
+          <li><a href="/dwxqxx.asp" title="岗位需求信息">岗位需求信息</a></li>
+        </ul>
+      </li>
+	  
+      <li><a href="#" title="单位服务">单位服务</a>
+        <ul>
+          <li><a href="/dwfw.asp?classid=34&classname=招聘指南&mnid=7726&qufen=0" title="招聘指南">招聘指南</a></li>
+          <li><a href="/map/map.asp" title="企业信息">企业信息</a></li>
+          <li><a href="/zxjj.asp?id=267" title="生源信息">生源信息</a></li>
+          <li><a href="/jlzx.asp" title="简历中心">简历中心</a></li>
+        </ul>
+      </li>
+	  
+      <li><a href="#" title="就业指导">就业指导</a>
+        <ul>
+          <li><a href="/jyzd.asp?classid=40&classname=就业政策&mnid=7726&qufen=0" title="就业政策">就业政策</a></li>
+          <li><a href="/jyzd.asp?classid=41&classname=就业指南&mnid=7726&qufen=0" title="就业指南">就业指南</a></li>
+          <li><a href="/jyzd.asp?classid=42&classname=职业测评&mnid=7726&qufen=0" title="职业测评">职业测评</a></li>
+        </ul>
+      </li>
+	  
+      <li><a href="http://xatu.sparktech.cn/innovation" title="创新创业" target="_blank">创新创业</a>
+
+      </li>
+	  
+      <li><a href="/zlxz.asp?classid=45&classname=资料下载&mnid=7726&qufen=0" title="资料下载">资料下载</a></li>
+	  
+      <li><a href="/zxjj.asp?id=153" title="中心简介">中心简介</a></li>
+    </ul>
+  </div>
+</div>
+<script  type="text/javascript"> 
+$(".navbg").capacityFixed();
+</script>
+
+</div>
+<!--导航结束-->
+
+<!--banner?-->
+<div class="nybn">
+  
+</div>
+<!--banner-->
+
+<!--main?-->
+<div class="nymain">
+<div class="nymain_left">
+    	<div class="nrs">
+        	<h1 class="leftnr1">单位需求信息</h1>
+            <div class="zydh">
+            	<ul>
+                    <li><a href="/jyxx.asp">单位需求信息</a></li>
+                </ul>
+            </div>
+            
+        </div>
+  
+        <div class="nrs">
+        	<h1 class="leftnr1">快速通道</h1>
+            <div class="zydh1">
+            	<ul>
+                	<li><a href="/zxjj.asp?id=268" target="_blank">就业流程</a></li>
+                    <li class="r1"><a href="/dwfw.asp?classid=34&classname=招聘指南&mnid=7726&qufen=0" target="_blank">招聘指南</a></li>
+                    <li><a href="/dacx.asp" target="_blank">档案查询</a></li>
+                    <li class="r1"><a href="/xysz.asp?id=134" target="_blank">联系学院</a></li>
+                    <li><a href="http://zbbm.chsi.com.cn" target="_blank">入伍预征</a></li>
+                    <li class="r1"><a href="/zxjj.asp?id=267" target="_blank">生源信息</a></li>
+                    <li><a href="/zlxz.asp?classid=45&classname=资料下载&mnid=7726&qufen=0" target="_blank">资料下载</a></li>
+                    <li class="r1"><a href="/jlzx.asp" target="_blank">简历中心</a></li>
+                    <div class="clear"></div>
+                </ul>
+            </div>
+            
+        </div>
+         <div class="nrs">
+        	<h1 class="leftnr1">工作指南</h1>
+            <div class="zydh1">
+            <!--	 <h2 class="zn">工作时间：</h2> 9:00-12:00 13:00-17:00 （节假日除外） -->
+                 <h2 class="zn">联系电话：</h2>	
+				 单位招聘 029-86173077-601<br>
+                 改派咨询 029-86173077-602<br>
+                 档案查询 029-86173077-603<br>
+                 其他事项 029-86173077-604<br>
+                 校内就业事务 029-86173079<br>
+                 值班电话（寒暑假）：18092157441
+				 <h2 class="zn">联系邮箱：</h2>xagdjy@126.com
+            </div>
+            
+        </div>
+        
+         <div class="nrs">
+        	<h1 class="leftnr1">快速登录</h1>
+            <div class="logins">
+            	<img src="images/login.jpg" width="244" height="150" border="0" usemap="#Map"  />
+                <map name="Map" id="Map">
+                  <area shape="rect" coords="65,22,171,57" href="http://xatu.sparktech.cn">
+                  <area shape="rect" coords="62,65,174,96" href="/denglu.asp">
+                </map>
+            </div>
+            
+            
+        </div>
+    </div>  
+  <div class="nymain_right">
+    	<h1 class="zyright"><span class="weizhi"><a href="/">网站首页</a>>><a href="/jyxx.asp">单位需求信息</a></span><span class="zys">单位需求信息</span></h1>
+        <div class="zynr">
+            
+		  <br />
+          <table width="95%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td height="50" align="center" class="cu sb"><strong>汉中市鹏远生物科技有限公司招聘公告</strong></td>
+            </tr>
+          </table>
+          <table width="95%" height="24" border="0" cellpadding="0" cellspacing="0" bgcolor="#F6F6F6">
+            <tr>
+              <td align="center" class="hui">作者：网站管理员&nbsp;发布时间：2017-6-19&nbsp;点击量：<span class="blue">541</span> 次&nbsp;<a href="javascript:window.close()" >关闭</a></td>
+            </tr>
+          </table>
+		  
+          <br />
+          <table width="95%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td align="left" class="line1 hui1"><DIV></DIV>
+<DIV>一、公司简介：</DIV>
+<DIV>汉中鹏远生物科技有限公司位于城固县上元观镇张家庵工业区，是在“大众创业，万众创新”的浪潮中，由大学生回乡投资创建的一家高成长型民营高科技企业，成立于2016年3月，注册资金2280万元，主要从事现代生物食品香料加工业，产品销向国内大中城市食品行业，出口国际贸易市场。在市场竞争日益激烈的今天，鹏远公司依靠先进生物工程技术和不断吸纳素质过硬、技术一流、敢打硬仗的精英人才，团结协作，奋力拼搏，使之成为国内一流，国际领先的食品企业，鹏远愿与你共创美好的明天！</DIV>
+<DIV>随着公司的快速发展，诚聘各类英才。汉中市鹏远生物科技有限公司高度重视人才，致力于为所有员工提供广阔的发展空间、良好的培训机会和融洽的工作氛围，以“人才就是企业未来！”为用人理念，尽公司最大努力招募并培养优秀人才，做到人尽其才、才尽其用。</DIV>
+<DIV>我们坚信员工的成功就是公司的成功！我们将为每一位优秀的您创造一个无限的舞台，而这个舞台期待您的加入！</DIV>
+<DIV>二、招聘岗位及数量：<A name=_GoBack></A></DIV>
+<DIV align=center>
+<TABLE border=1 cellSpacing=0 cellPadding=0 width=619>
+<TBODY>
+<TR>
+<TD vAlign=center>
+<DIV>岗位</DIV></TD>
+<TD vAlign=center>
+<DIV>专业</DIV></TD>
+<TD vAlign=center>
+<DIV>需求人数</DIV></TD>
+<TD vAlign=center>
+<DIV>学历要求</DIV></TD>
+<TD vAlign=center>
+<DIV>备注</DIV></TD></TR>
+<TR>
+<TD vAlign=center>
+<DIV>技术工</DIV></TD>
+<TD vAlign=center>
+<DIV>化工、制造类相关专业</DIV></TD>
+<TD vAlign=center>
+<DIV>30名</DIV></TD>
+<TD vAlign=center>
+<DIV>大专及以上</DIV></TD>
+<TD vAlign=center rowSpan=4>
+<DIV>试用三个月1800~2500元</DIV>
+<DIV>转正工资2800~4500元</DIV></TD></TR>
+<TR>
+<TD vAlign=center>
+<DIV>电气维修工</DIV></TD>
+<TD vAlign=center>
+<DIV>机电类相关专业</DIV></TD>
+<TD vAlign=center>
+<DIV>8名</DIV></TD>
+<TD vAlign=center>
+<DIV>大专及以上</DIV></TD></TR>
+<TR>
+<TD vAlign=center>
+<DIV>&nbsp;机电一体化</DIV></TD>
+<TD vAlign=center>
+<DIV>机械设计制造及其自动化</DIV></TD>
+<TD vAlign=center>
+<DIV>8名</DIV></TD>
+<TD vAlign=center>
+<DIV>大专及以上</DIV></TD></TR>
+<TR>
+<TD vAlign=center>
+<DIV>储备干部</DIV></TD>
+<TD vAlign=center>
+<DIV>生物、化学、市场营销、工商管理等相关专业</DIV></TD>
+<TD vAlign=center>
+<DIV>若干</DIV></TD>
+<TD vAlign=center>
+<DIV>大专及以上</DIV></TD></TR></TBODY></TABLE></DIV>
+<DIV>薪酬福利：</DIV>
+<DIV>底薪工资+绩效工资+奖励工资 +工龄工资综合计薪；</DIV>
+<DIV>公司提供食宿补贴、缴纳五险一金；</DIV>
+<DIV>完善健全的培训、晋升机制；</DIV>
+<DIV>年度旅游、节日礼金或礼品，健康体检等。</DIV>
+<DIV>任职要求：</DIV>
+<DIV>1、大专及以上学历，化工、机电，机械类等相关专业；</DIV>
+<DIV>2、熟悉办公软件的应用；</DIV>
+<DIV>3、具有一年以上技术支持、营销等相关工作经验优先录取；</DIV>
+<DIV>4、具有良好的沟通协调能力、能吃苦耐劳。</DIV>
+<DIV>三、应聘方式：</DIV>
+<DIV>1、网络应聘：请将简历发至邮箱：</DIV>
+<DIV>hzpysw@yeah.net&nbsp;&nbsp;&nbsp;&nbsp;姓名+学校+岗位</DIV>
+<DIV><A href="mailto:278197310@qq.Com" target=_blank>278197310@qq.com</A>&nbsp;&nbsp;姓名+学校+岗位</DIV>
+<DIV>2、现场应聘：带简历可直接赴公司总部应聘</DIV>
+<DIV>四、联系方式：0916-7518116， 张明月18691602258&nbsp;&nbsp;</DIV>
+<DIV>五、报名时间：2017年6月10日至2017年7月20日，欢迎有志之士加盟鹏远，展现才华、共同发展。</DIV>
+<DIV>六、公司地址：陕西省汉中市城固县上元观镇张家庵工业区</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV><br />
+                <br /></td>
+            </tr>
+          </table>
+
+        </div>
+  </div>
+    <div class="clear"></div>
+</div>
+
+<!--main-->
+<!--foot?-->
+ <div class="foot">
+	<div class="foot1">
+       
+      版权所有&nbsp;@&nbsp;西安工业大学大学生毕业指导服务中心&nbsp;&nbsp;&nbsp;地址：陕西省西安市未央大学园区学府中路2号&nbsp;&nbsp;&nbsp; 邮编：710021 </br>
+	       电话：029-86173077&nbsp;&nbsp;86173079 &nbsp;&nbsp;&nbsp;传真：029-86173077&nbsp;&nbsp;&nbsp; E-mail：xagdjy@126.com </br>
+	 
+     <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1000238183'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s22.cnzz.com/z_stat.php%3Fid%3D1000238183' type='text/javascript'%3E%3C/script%3E"));</script>
+     技术支持：<a href="http://www.xashangyu.net" target="_blank"><font color="#FFFFFF">尚誉 </font></a>
+	
+    </div>
+</div>
+ 
+<!---foot-->
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,293 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>西安工业大学就业信息网</title>
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+  <link href="css/simplefoucs_lrtk.css" rel="stylesheet" />
+    <link href="css/nav.css" rel="stylesheet" />
+     <link href="css/banner.css" rel="stylesheet" />
+	   <link href="css/main.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript" src="js/work.js"></script>
+<script type="text/javascript" src="js/iepngfix_tilebg.js"></script>
+<script type="text/javascript" src="js/jQuery.js"></script>
+<script type="text/javascript" src="js/common.js"></script>
+
+
+    <script src="js/jquery-1.9.1.min.js" type="text/javascript"></script>
+    <!--??js-->
+    <script type="text/javascript">
+$(document).ready(function() {
+	
+$("ul#topnav li").hover(function() { //Hover over event on list item
+	$(this).css({ 'background' : '#1376c9 url(topnav_active.gif) repeat-x'}); //Add background color + image on hovered list item
+	$(this).find("span").show(); //Show the subnav
+} , function() { //on hover out...
+	$(this).css({ 'background' : 'none'}); //Ditch the background
+	$(this).find("span").hide(); //Hide the subnav
+});
+	
+});
+</script>
+<!--tab?-->
+<script src="js/organictabs.jquery.js"></script>
+	<script>
+		$(function() {
+		
+			// Calling the plugin
+			$("#example-one").organicTabs();
+			$("#example-two").organicTabs({
+				"speed": 100,
+				"param": "tab"
+			});
+			
+		});
+	</script>
+    
+
+
+
+</HEAD>
+<BODY>
+
+<!--头部-->
+<div class="header">
+	<div class="header1">
+    	<div class="lianxi">
+        	<a href="#"><font color="#FFFFFF">设为首页</font></a>&nbsp;|&nbsp;<a href="#"><font color="#FFFFFF">加入收藏</font></a>&nbsp;
+        </div>
+        <div class="clear"></div>
+    </div>
+
+</div>
+<!--头部结束-->
+<!--导航开始-->
+<div class="navs">
+<div class="navbg">
+  <div class="col960">
+    <ul id="navul" class="cl">
+      <li><a href="/" target="_blank">网站首页</a></li>
+	  
+      <li><a href="#" title="学校概况">学校概况</a>
+        <ul>
+          <li><a href="/xxjj.asp?id=133" title="学校简介">学校简介</a></li>
+          <li><a href="/xysz.asp?id=134" title="学院设置">学院设置</a></li>
+        </ul>
+      </li>
+	  
+      <li><a href="/xwzx.asp" title="新闻资讯">新闻资讯</a></li>
+	  
+      <li><a href="#" title="招聘信息">招聘信息</a>
+        <ul>
+          <li><a href="/RM_Calendar.asp" title="招聘会信息">招聘会信息</a></li>
+          <li><a href="/jyxx.asp" title="单位需求信息">单位需求信息</a></li>
+          <li><a href="/dwxqxx.asp" title="岗位需求信息">岗位需求信息</a></li>
+        </ul>
+      </li>
+	  
+      <li><a href="#" title="单位服务">单位服务</a>
+        <ul>
+          <li><a href="/dwfw.asp?classid=34&classname=招聘指南&mnid=7726&qufen=0" title="招聘指南">招聘指南</a></li>
+          <li><a href="/map/map.asp" title="企业信息">企业信息</a></li>
+          <li><a href="/zxjj.asp?id=267" title="生源信息">生源信息</a></li>
+          <li><a href="/jlzx.asp" title="简历中心">简历中心</a></li>
+        </ul>
+      </li>
+	  
+      <li><a href="#" title="就业指导">就业指导</a>
+        <ul>
+          <li><a href="/jyzd.asp?classid=40&classname=就业政策&mnid=7726&qufen=0" title="就业政策">就业政策</a></li>
+          <li><a href="/jyzd.asp?classid=41&classname=就业指南&mnid=7726&qufen=0" title="就业指南">就业指南</a></li>
+          <li><a href="/jyzd.asp?classid=42&classname=职业测评&mnid=7726&qufen=0" title="职业测评">职业测评</a></li>
+        </ul>
+      </li>
+	  
+      <li><a href="http://xatu.sparktech.cn/innovation" title="创新创业" target="_blank">创新创业</a>
+
+      </li>
+	  
+      <li><a href="/zlxz.asp?classid=45&classname=资料下载&mnid=7726&qufen=0" title="资料下载">资料下载</a></li>
+	  
+      <li><a href="/zxjj.asp?id=153" title="中心简介">中心简介</a></li>
+    </ul>
+  </div>
+</div>
+<script  type="text/javascript"> 
+$(".navbg").capacityFixed();
+</script>
+
+</div>
+<!--导航结束-->
+
+<!--banner?-->
+<div class="nybn">
+  
+</div>
+<!--banner-->
+
+<!--main?-->
+<div class="nymain">
+<div class="nymain_left">
+    	<div class="nrs">
+        	<h1 class="leftnr1">单位需求信息</h1>
+            <div class="zydh">
+            	<ul>
+                    <li><a href="/jyxx.asp">单位需求信息</a></li>
+                </ul>
+            </div>
+            
+        </div>
+  
+        <div class="nrs">
+        	<h1 class="leftnr1">快速通道</h1>
+            <div class="zydh1">
+            	<ul>
+                	<li><a href="/zxjj.asp?id=268" target="_blank">就业流程</a></li>
+                    <li class="r1"><a href="/dwfw.asp?classid=34&classname=招聘指南&mnid=7726&qufen=0" target="_blank">招聘指南</a></li>
+                    <li><a href="/dacx.asp" target="_blank">档案查询</a></li>
+                    <li class="r1"><a href="/xysz.asp?id=134" target="_blank">联系学院</a></li>
+                    <li><a href="http://zbbm.chsi.com.cn" target="_blank">入伍预征</a></li>
+                    <li class="r1"><a href="/zxjj.asp?id=267" target="_blank">生源信息</a></li>
+                    <li><a href="/zlxz.asp?classid=45&classname=资料下载&mnid=7726&qufen=0" target="_blank">资料下载</a></li>
+                    <li class="r1"><a href="/jlzx.asp" target="_blank">简历中心</a></li>
+                    <div class="clear"></div>
+                </ul>
+            </div>
+            
+        </div>
+         <div class="nrs">
+        	<h1 class="leftnr1">工作指南</h1>
+            <div class="zydh1">
+            <!--	 <h2 class="zn">工作时间：</h2> 9:00-12:00 13:00-17:00 （节假日除外） -->
+                 <h2 class="zn">联系电话：</h2>	
+				 单位招聘 029-86173077-601<br>
+                 改派咨询 029-86173077-602<br>
+                 档案查询 029-86173077-603<br>
+                 其他事项 029-86173077-604<br>
+                 校内就业事务 029-86173079<br>
+                 值班电话（寒暑假）：18092157441
+				 <h2 class="zn">联系邮箱：</h2>xagdjy@126.com
+            </div>
+            
+        </div>
+        
+         <div class="nrs">
+        	<h1 class="leftnr1">快速登录</h1>
+            <div class="logins">
+            	<img src="images/login.jpg" width="244" height="150" border="0" usemap="#Map"  />
+                <map name="Map" id="Map">
+                  <area shape="rect" coords="65,22,171,57" href="http://xatu.sparktech.cn">
+                  <area shape="rect" coords="62,65,174,96" href="/denglu.asp">
+                </map>
+            </div>
+            
+            
+        </div>
+    </div>  
+  <div class="nymain_right">
+    	<h1 class="zyright"><span class="weizhi"><a href="/">网站首页</a>>><a href="/jyxx.asp">单位需求信息</a></span><span class="zys">单位需求信息</span></h1>
+        <div class="zynr">
+            
+		  <br />
+          <table width="95%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td height="50" align="center" class="cu sb"><strong>西安酷赢企业营销策划有限公司招聘公告</strong></td>
+            </tr>
+          </table>
+          <table width="95%" height="24" border="0" cellpadding="0" cellspacing="0" bgcolor="#F6F6F6">
+            <tr>
+              <td align="center" class="hui">作者：网站管理员&nbsp;发布时间：2017-6-21&nbsp;点击量：<span class="blue">205</span> 次&nbsp;<a href="javascript:window.close()" >关闭</a></td>
+            </tr>
+          </table>
+		  
+          <br />
+          <table width="95%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td align="left" class="line1 hui1"><H2><FONT size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 西安酷赢企业营销策划有限公司成立于2012年。是一家专为企业提供营销策划与网络营销运营，及移动互联网平台建设的企业。是西安最早提出移动网络与企业营销相结合整体营销的企业，是全网络营销的倡导者。曾为西安多家著名企业做过企业营销策划，网络营销指导运营，以及整体营销推广的企业。并且曾经指导参与北京神鹰诚讯 房地产tuitui99网站的技术设计与营销支持，并作为tuitui99网站的陕西省总代理对该网站在陕西进行运营推广。并在2014年成立了子公司西安大微广告文化传播有限公司。成为西安第一批运营微信营销的企业，在西安地区进行大量的移动互联培训与企业指导运营，成为上海微盟公司的西安代理运营商。</FONT></H2>
+<DIV>为了给房地产开发企业与房地产经纪企业提供一个更好的网络平台，也为了这些企业可以通过网络平台为陕西消费者提供更好的服务，西安酷赢企业营销策划有限公司建立了《房地产精英经纪人O2O电商平台》与《精房网》此两大平台模式目前在全行业属于高水平的电商平台模式，这里不仅仅为房地产开发企业与房地产经纪企业搭建提供服务，更重要的是此平台为广大从事房地产经纪工作的广大房地产经纪人提供了一个集中展示与互动平台，同时又为消费者提供更多更好的除购房之外的更多服务，做到从购房到装修装饰，到家具家电，到后期的家政服务一条路的服务模式。</DIV>
+<DIV>如你想在校园以外增添丰富的阅历，并且得到与付出等同的回报，我们将是你不二的选择。</DIV>
+<DIV>现因业务扩展招聘以下岗位;</DIV>
+<DIV>渠道专员【10人】+新房销售【10人】</DIV>
+<DIV>渠道专员【岗位职责】</DIV>
+<DIV>全面负责指定区域内的客户拓展以及渠道门店的拓展</DIV>
+<DIV>具有较强的人际沟通以及口头，书面表达能力</DIV>
+<DIV>有良好的人际交往沟通能力，善于表达，勤奋刻苦。良好的抗压能力及较强的团队协作精神，有强烈的上进心。</DIV>
+<DIV>挖掘客户需求，匹配房源信息，为客户提供优质的看房体验；</DIV>
+<DIV>与客户保持沟通联系，为客户提供最新的房产分析等服务</DIV>
+<DIV>促成买卖双方达成交易</DIV>
+<DIV>【岗位要求】</DIV>
+<DIV>对房产销售感兴趣。热爱房产销售行业者</DIV>
+<DIV>为人正直诚实，能吃苦耐劳，肯上进，有野心！</DIV>
+<DIV>专业不重要，我们只看能力，只看付出！</DIV>
+<DIV>有亲和力，有良好的团队意识及客户服务意识</DIV>
+<DIV>愿意接挑战性的工作，具备一定的抗压能力。</DIV>
+<DIV>【薪资待遇】</DIV>
+<DIV>无责任底薪2500+绩效奖励+高提成</DIV>
+<DIV>新房销售【岗位职责】</DIV>
+<DIV>置业顾问是在售楼部通过现场服务引导客户购买，促进楼盘销售，为客户提供投资置业的专业化，顾问式服务的综合性人才。</DIV>
+<DIV>全面熟练的掌握本楼盘的相关信息，了解房地产法律，法规以及相关交易知识，为客户提供满意的咨询。</DIV>
+<DIV>热情接待，细致讲解，耐心服务，务必让客户对我们提供的服务表示满意</DIV>
+<DIV>制定个人销售方案，计划，严格按照公司的销售价格及交房标准进行销售</DIV>
+<DIV>挖掘潜在客户</DIV>
+<DIV>进行市场调查以及研究与分析</DIV>
+<DIV>及时向销售部负责人反映客户信息，以便公司适时改变销售策略</DIV>
+<DIV>同事之间要互相尊重，互相学习，以团队利益为重</DIV>
+<DIV>【岗位要求】</DIV>
+<DIV>对房产销售感兴趣。热爱房产销售行业者</DIV>
+<DIV>为人正直诚实，能吃苦耐劳，肯上进，有野心！</DIV>
+<DIV>有亲和力，有良好的团队意识及客户服务意识</DIV>
+<DIV>愿意接挑战性的工作，具备一定的抗压能力</DIV>
+<DIV>【薪资待遇】</DIV>
+<DIV>无责任底薪2500+绩效奖励+高提成</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>联系人：步总13811618972</DIV>
+<DIV>邮箱：1983277422@qq.com</DIV>
+<DIV>地址：西安雁塔区长安中路小寨华旗国际A座1835室</DIV>
+<DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（地铁2,3号线C口出）</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV><br />
+                <br /></td>
+            </tr>
+          </table>
+
+        </div>
+  </div>
+    <div class="clear"></div>
+</div>
+
+<!--main-->
+<!--foot?-->
+ <div class="foot">
+	<div class="foot1">
+       
+      版权所有&nbsp;@&nbsp;西安工业大学大学生毕业指导服务中心&nbsp;&nbsp;&nbsp;地址：陕西省西安市未央大学园区学府中路2号&nbsp;&nbsp;&nbsp; 邮编：710021 </br>
+	       电话：029-86173077&nbsp;&nbsp;86173079 &nbsp;&nbsp;&nbsp;传真：029-86173077&nbsp;&nbsp;&nbsp; E-mail：xagdjy@126.com </br>
+	 
+     <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1000238183'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s22.cnzz.com/z_stat.php%3Fid%3D1000238183' type='text/javascript'%3E%3C/script%3E"));</script>
+     技术支持：<a href="http://www.xashangyu.net" target="_blank"><font color="#FFFFFF">尚誉 </font></a>
+	
+    </div>
+</div>
+ 
+<!---foot-->
+
+
+
+
+</body>
+</html>
